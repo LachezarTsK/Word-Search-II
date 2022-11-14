@@ -1,7 +1,4 @@
 
-
-
-
 /**
  * @param {character[][]} board
  * @param {string[]} dictionary
